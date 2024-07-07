@@ -39,7 +39,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>projectJY4</finalName>
+        <finalName>project-jy4</finalName>
     </build>
 
 </project>
